@@ -1,5 +1,5 @@
 # Banco-de-Dados_Segundo-Semestre
 
 - Projeto Desenvolve - Itabira
-- Programação básica com Python
+- Banco de Dados - Segundo Semestre
 - PDITA 339.
